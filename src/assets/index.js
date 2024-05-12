@@ -49,6 +49,15 @@ import math from './projects/math-magicians.png';
 import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
+import clapboard from './icons/clapboard.png'
+import videocamara from './icons/video-camera.png'
+import premierepro from './icons/premiere-pro.png'
+import videoedit from './icons/edit-video.png'
+import director from './icons/director-chair.png'
+import aftereffects from './icons/after-effects.png'
+import photoshop from './icons/photoshop.png'
+import DavinciResolve from './icons/davinc.png'
+import canva from './icons/canva.png'
 
 export {
   bwmap,
@@ -96,4 +105,5 @@ export {
   dcc,
   kelhel,
   microverse,
+  clapboard,videocamara,premierepro,videoedit,director,aftereffects,photoshop,DavinciResolve,canva
 };

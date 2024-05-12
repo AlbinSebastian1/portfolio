@@ -29,7 +29,7 @@ const Hero = () => {
           lg:top-[150px] xl:top-[250px] ${styles.paddingX} 
           max-w-7xl mx-auto flex flex-row items-start
           justify-between gap-3`}>
-          <div className="flex flex-col justify-center items-center mt-5 ml-3">
+          <div className="flex flex-col justify-center items-center mt-1 ml-1">
             <div className="w-5 h-5 rounded-full bg-[#0a0a0a] sm:hidden" />
             <div className="w-1 sm:h-80 h-40 bw-gradient sm:hidden" />
           </div>
@@ -42,12 +42,12 @@ const Hero = () => {
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase">
-                Shaquille
+                Albin  Sebastian
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
-              consectetur adipisicing elit deleniti, voluptas.
+            I craft captivating narratives that resonate with audiences . Let my storytelling prowess and editing finesse will give project to life
+ <br className="sm:block hidden" />
             </p>
           </div>
           <div

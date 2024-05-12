@@ -68,8 +68,12 @@ const Contact = () => {
         className="flex-[0.75] bg-jet p-8 rounded-2xl">
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadTextLight}>Contact.</h3>
+        <span className="text-timberWolf font-large mb-4">Albin Sebastian</span><br />
+        <span className="text-timberWolf font-large mb-4">albinsebastia07@gmail.com</span><br />
+        <span className="text-timberWolf font-large mb-4">6383285424</span><br />
+        <span className="text-timberWolf font-large mb-4">43 Thangavel Nagar ,1 st cross strret ,West Jafferkhanpet chennai 600083</span><br />
 
-        <form
+        {/* <form
           ref={formRef}
           onSubmit={handleSubmit}
           className="mt-10 flex flex-col gap-6 font-poppins">
@@ -143,7 +147,7 @@ const Contact = () => {
               w-[23px] h-[23px] object-contain"
             />
           </button>
-        </form>
+        </form> */}
       </motion.div>
     </div>
   );
